@@ -1,0 +1,23 @@
+
+.hero {
+    width: 500px;
+    padding: 20px;
+}
+
+.col-sm {
+    padding: 20px;
+}
+
+.media-1 {
+    width: 50px;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.media-main {
+    width: 200px;
+    padding: 20px;
+}
