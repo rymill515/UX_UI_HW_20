@@ -1,4 +1,8 @@
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .hero {
     width: 500px;
     padding: 20px;
@@ -23,5 +27,33 @@ h1 {
 }
 
 .myrole {
+    padding: 100px;
+}
+
+img {
+    width: 500px;
+}
+
+.jumbotron {
+    background-color: #FF665A;
+}
+
+.display-4 {
+    color: white;
+}
+.lead {
+    color: white;
+}
+
+.jumbo-p {
+    color: white;
+}
+
+.list-group {
     padding: 20px;
+}
+
+.accordion {
+    padding: 20px;
+    width: 500px;
 }
