@@ -51,9 +51,11 @@ img {
 
 .list-group {
     padding: 20px;
+    margin: 0 auto;
 }
 
 .accordion {
     padding: 20px;
     width: 500px;
+    margin: 0 auto;
 }
